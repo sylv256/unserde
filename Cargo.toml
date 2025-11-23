@@ -2,5 +2,8 @@
 name = "unserde"
 version = "0.0.0-alpha.0+dontusethisyetwereworkingonit"
 edition = "2024"
+description = "Serde, but unsynn"
+license = "MIT or Apache-2.0"
+repository = "https://github.com/sylv256/unserde"
 
 [dependencies]
